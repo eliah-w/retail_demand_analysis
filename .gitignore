@@ -1,0 +1,7 @@
+.idea/
+
+# big files
+resources/train.csv
+resources/guayas_prepared.csv
+resources/1_dataframes.pkl
+resources/2_dataframes.pkl
