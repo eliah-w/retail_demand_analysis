@@ -7,4 +7,7 @@ resources/1_dataframes.pkl
 resources/2_dataframes.pkl
 
 # MLflow
-resources/mlflow
+mlflow_results/*
+
+# Keep models
+!mlflow_results/models
